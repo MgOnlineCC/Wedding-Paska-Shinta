@@ -9706,6 +9706,11 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
+.bg-video {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/bg-fx.jpeg), no-repeat center center;
+  background-size: cover;
+}
+
 .bg-about {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/bg-fx.jpeg), no-repeat center center;
   background-size: cover;
@@ -9782,11 +9787,6 @@ a.text-dark:hover, a.text-dark:focus {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/bg-fx.jpeg), no-repeat center center;
   background-size: cover;
   
-}
-
-.bg-maps {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/bg-fx.jpeg), no-repeat center center;
-  background-size: cover;
 }
 
 .bg-rsvp {
